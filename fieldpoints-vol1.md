@@ -1,8 +1,10 @@
 ---
 layout: page
+title: Volume 1
 permalink: vol1
-title: 
 ---
+
+title:
 -	type: main
   	text: Field Points
 -	type: subtitle
@@ -21,7 +23,7 @@ language: en-US
 cover-image: cover.png
 date: Early 2015
 stylesheet: styles.css
----
+
 
 ![](cover.png)
 
