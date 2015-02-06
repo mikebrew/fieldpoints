@@ -4,27 +4,6 @@ title: Volume 1
 permalink: vol1
 ---
 
-title:
--	type: main
-  	text: Field Points
--	type: subtitle
-	text: Volume 1
-creator:
-- 	role: author
-	text: Watchtower Bible and Tract Society
--	role: editor
-	text: The Publisher
-identifier:
--	scheme: DOI
-	text: doi:10.234234.234/33
-publisher: The Publisher
-rights: The Watchtower
-language: en-US
-cover-image: cover.png
-date: Early 2015
-stylesheet: styles.css
-
-
 ![](cover.png)
 
 Instructions
