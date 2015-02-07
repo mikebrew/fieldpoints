@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Volume 1
-permalink: fieldpoints/vol1
+permalink: /fieldpoints/vol1/
 ---
 
 ![](cover.png)
